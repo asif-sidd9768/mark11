@@ -18,7 +18,7 @@ const handleClick = () => {
       luckyNumber.value = ''
       dateInput.value = ''
     } else {
-      result.innerHTML = `${dates[2]} is not lucky for you`;
+      result.innerHTML = `${dates[2]} is no lucky for you`;
       luckyNumber.value = ''
       dateInput.value = ''
     }
