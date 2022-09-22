@@ -5,4 +5,4 @@ So, you've to enter your birthday and lucky number and when you click **check** 
 > **NOTE** : It's just a fun game.
 
 ## Tech Stack
-> HTML, CSS, JavaScript, ReactJS.
+> HTML, CSS, JavaScript.
