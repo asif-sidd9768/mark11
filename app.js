@@ -15,8 +15,12 @@ const handleClick = () => {
   } else {
     if (isBdLucky === 0) {
       result.innerHTML = `${dates[2]} is lucky mate`;
+      luckyNumber.value = ''
+      dateInput.value = ''
     } else {
       result.innerHTML = `${dates[2]} is not lucky for you`;
+      luckyNumber.value = ''
+      dateInput.value = ''
     }
   }
 };
